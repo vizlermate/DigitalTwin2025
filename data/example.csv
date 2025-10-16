@@ -1,0 +1,5 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+A84BACF31D084DBB,electric_bike,2024-01-31 19:48:41.708,2024-01-31 19:50:17.980,Morris Ave & E 163 St,8036.05,Morris Ave & McClellan St,8107.10,40.827230499624726,-73.91765579597632,40.831584,-73.9149,member
+EB46730C6ECB7098,electric_bike,2024-01-20 23:20:21.622,2024-01-20 23:41:12.446,Central Park S & 6 Ave,6876.04,Edgecombe Ave & W 141 St,7915.11,40.76590936,-73.97634151,40.820681,-73.945144,member
+B56AED44B0EF9B97,electric_bike,2024-01-23 18:51:07.737,2024-01-23 19:09:03.867,Rivington St & Chrystie St,5453.01,W 30 St & 10 Ave,6459.07,40.72110063,-73.9919254,40.752694,-74.002353,member
+0A405B949A53364E,classic_bike,2024-01-27 11:18:24.176,2024-01-27 11:30:21.716,Rivington St & Chrystie St,5453.01,Carmine St & 6 Ave,5763.03,40.72110063,-73.9919254,40.73038599,-74.00214988,member
